@@ -22,7 +22,7 @@ public class App
          * error: [dereference.of.nullable] dereference of possibly-null
          * reference myObject
          *
-         * http://checkerframework.org
+         * http://checkerframework.org 
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
     }
